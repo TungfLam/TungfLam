@@ -5,8 +5,8 @@
 <div>
   <h1>Profile views</h1>
   <p>
-    <a href="https://github.com/TungfLam/TungfLam">
-      <img src="https://img.shields.io/github/views/TungfLam/TungfLam?style=flat-square" />
+    <a href="https://github.com/TungfLam">
+      <img src="https://img.shields.io/github/views/TungfLam?style=flat-square" />
     </a>
   </p>
 </div>
