@@ -1,6 +1,8 @@
 - 👋 \{^_^}/ hi! I’m @TungfLam ( Tùng Lâm ) -
 
-- [![](https://jitpack.io/v/rasoulmiri/skeleton.svg)](https://jitpack.io/#rasoulmiri/skeleton)
+<a href="https://github.com/TungfLam/TungfLam">
+    <img src="https://komarev.com/ghpvc/?username=projectdp&color=blue"/>
+</a>
 
                  - 👀 -（づ￣3￣）づ❤️  -
 
