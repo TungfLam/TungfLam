@@ -46,7 +46,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=TungfLam&the
 </a>    
 </div>
 
-![ca60a35c6f46c0189957](https://github.com/TungfLam/TungfLam/assets/117633264/9b4d1aa6-0382-43cc-8cd4-a83e28c952d1)
+
 
 
 
