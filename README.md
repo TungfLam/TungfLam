@@ -23,19 +23,12 @@
 <img src="https://camo.githubusercontent.com/4ae569342c64ecd9f0d7e7cbed78fffcca6a0f427e8efb4297c1d357dfb09074/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465" alt="Web">
 <a href = "mailto:saoooo2pro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<a href="https://app.daily.dev/tng"><img src="https://api.daily.dev/devcards/v2/rT4iDNjpPmo0JIMcoXiDQ.png?type=wide&r=on8" width="652" alt="tùng's Dev Card"/></a>
 </div>
 
 
                  - 👀 -（づ￣3￣）づ❤️  -
-
-
-
-
-
-![IMG20220412203041](https://github.com/TungfLam/TungfLam/assets/117633264/00c71e7d-50f4-46b1-8c3f-57dba67141a8)
-
 <div align="center">
+
 <a
 href="https://github.com/anuraghazra/github-readme-stats">
 <img height="180em"
@@ -43,8 +36,14 @@ src="https://github-readme-stats.vercel.app/api?username=TungfLam&theme=react&sh
 <img height="180em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=TungfLam&theme=react&border_radius=25&hide=issues&langs_count=4&custom_title=Top%20Languages" />
 </br>
-</a>    
+</a> 
 </div>
+
+
+
+![IMG20220412203041](https://github.com/TungfLam/TungfLam/assets/117633264/00c71e7d-50f4-46b1-8c3f-57dba67141a8)
+
+   
 
 
 
